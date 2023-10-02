@@ -1,0 +1,7 @@
+.container{
+  height: 100vh;
+  background-image: url('/src/assets/image/Circle.svg');
+  background-repeat: no-repeat;
+  padding: 0 25px;
+  max-width: 390px;
+}
